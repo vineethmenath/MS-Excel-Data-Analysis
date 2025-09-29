@@ -1,9 +1,12 @@
 # ms-excel-working on Freshco Hypermarket database
 Freshco Hypermarket Capstone Project: Operational & Customer Data Analysis (Jan-Sep 2021)
-Overview
+
+**Overview**
+
 This project presents an in-depth data analysis of Freshco Hypermarket's operational and customer data spanning from January 1, 2021, to September 30, 2021. The analysis covers four main areas: Order Level, Completion Rate, Customer Level, and Delivery Level. The primary goal was to uncover performance trends, identify areas for improvement, and derive data-driven strategies to enhance operational efficiency and boost customer satisfaction and lifetime value.
 The entire analysis, including data manipulation, calculations, and visualization, was conducted using Microsoft Excel.
-Key Features & Insights
+
+**Key Features & Insights**
 1. Order Level Analysis 🛒
  * Peak Order Time & Area: The afternoon slot has the maximum number of orders, with HSR Layout recording the maximum number of orders due to a high number of pickup points.
  * Top Delivery Areas (Absolute Orders): HSR Layout (15,657), ITI Layout (3,946), and Harlur (1,309) are the top three areas.
@@ -25,23 +28,16 @@ Key Features & Insights
  * Early Deliveries: Orders placed during late night are usually delivered early because of low traffic. Weekday orders are delivered earlier compared to weekend orders.
  * Delivery Charges Pattern: Brookfield has the highest delivery charges, with these being late night orders. ITI Layout has the lowest delivery charges.
  * Top 5 Delayed Delivery Areas: Mahadevapura, Brookefield, Vimanapura, Pattandur, and CV Raman Nagar.
-Tools Used 🛠️
+ * 
+**Tools Used 🛠️**
  * Microsoft Excel: Used for all aspects of the project, including:
    * Data Cleaning and Manipulation.
    * Creating Pivot Tables and various formulas for calculations.
    * Data Analysis (Order Level, Completion Rate, Customer LTV, Delivery Time).
    * Data Visualization (Charts and conditional formatting for reports).
  * Microsoft Word (.docx): Used for compiling the final report (Freshco Hypermarket Capstone report.docx).
-Repository Structure
-├── Data/
-│ ├── Raw Data.xlsx (Original dataset used for analysis)
-├── Report/
-│ ├── Freshco Hypermarket Capstone report.docx (The final capstone report)
-├── Analysis_Workbooks/
-│ ├── Freshco_Hypermarket_Analysis_Excel.xlsx (Excel file containing all data manipulation, calculations, pivot tables, and visualizations)
-├── README.md (This file)
 
-Conclusion: Actionable Strategy Summary
+**Conclusion:**
 The analysis highlighted significant operational and customer trends. Key strategies should focus on:
  * Late Night Strategy: Leverage the early delivery time of late-night orders due to low traffic to balance against their high delivery charges.
  * Afternoon Slot Optimization: Since the afternoon slot has the maximum orders, efforts should focus on mitigating the late delivery times in this slot, possibly by optimizing routes or increasing delivery personnel.
